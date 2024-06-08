@@ -1,6 +1,15 @@
 #ifndef ERROR_HANDLER_H
 #define ERROR_HANDLER_H
 
+/**
+ * @file error_handler.h
+ * @brief Header file for the Error Handler library in C.
+ *
+ * The Error Handler library provides functions and definitions for handling
+ * and logging errors within a C program. It defines various error codes
+ * and a function to log descriptive error messages.
+ */
+
 #include "logger.h"
 
 typedef enum {
