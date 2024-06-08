@@ -18,6 +18,12 @@ Use the predefined error codes (ErrorCode) to identify specific error conditions
 # Integration with Logger:
 Ensure that the Logger library is properly integrated and initialized in your project to enable error logging.
 
+To clone the Logger library using terminal, run the following command:
+
+```bash
+git clone https://github.com/StjepanPrakljacic/Logger.git
+```
+
 # Contributing
 Contributions to the Error Handler project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
 
