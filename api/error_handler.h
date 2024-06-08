@@ -1,6 +1,8 @@
 #ifndef ERROR_HANDLER_H
 #define ERROR_HANDLER_H
 
+#include "logger.h"
+
 typedef enum {
     E_OK = 0,
     ERROR_MEMORY_ALLOCATION,

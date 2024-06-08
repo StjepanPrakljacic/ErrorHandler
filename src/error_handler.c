@@ -1,4 +1,3 @@
-#include "logger.h"
 #include "error_handler.h"
 
 void log_error_message(ErrorCode code) {
