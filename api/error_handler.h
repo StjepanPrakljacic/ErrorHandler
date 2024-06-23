@@ -10,8 +10,6 @@
  * and a function to log descriptive error messages.
  */
 
-#include "logger.h"
-
 typedef enum {
     E_OK = 0,
     ERROR_MEMORY_ALLOCATION,
